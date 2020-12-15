@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "884056627282",
+    "firebase_url": "https://doha-roots-app.firebaseio.com",
+    "project_id": "doha-roots-app",
+    "storage_bucket": "doha-roots-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884056627282:android:8d3f252111a137d2c3e78b",
+        "android_client_info": {
+          "package_name": "com.doha_roots.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884056627282-135qkmhcfp5uaio6555fm9df7m0ns5ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doha_roots.admin",
+            "certificate_hash": "f02445c7ffb5a54c76471e8eae81d95e2002b5c4"
+          }
+        },
+        {
+          "client_id": "884056627282-e4epf960dv9btn487o7j950ou1dmrm9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doha_roots.admin",
+            "certificate_hash": "3d685550584f674b673e65e11ed445f327b19de1"
+          }
+        },
+        {
+          "client_id": "884056627282-ut1vej4pbkp79dm8dcbrfdg06mm727qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doha_roots.admin",
+            "certificate_hash": "e4ac39d0bf320cc6ef4dd30683ea3d40d9d25fe9"
+          }
+        },
+        {
+          "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8iKi_k85hRgA52iPNGeqO_Q-JOuqSgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884056627282-stbg7toou8dahb68n2ma63bdi8eg9bog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "doha.roots.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884056627282:android:224349173de28fd5c3e78b",
+        "android_client_info": {
+          "package_name": "doha.roots.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884056627282-an79j44t7dl5bg64coi24fj4hrvnl9hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doha.roots.app",
+            "certificate_hash": "e4ac39d0bf320cc6ef4dd30683ea3d40d9d25fe9"
+          }
+        },
+        {
+          "client_id": "884056627282-gr0ha3dmstrcp31bm22n7pq7012vb6qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doha.roots.app",
+            "certificate_hash": "f02445c7ffb5a54c76471e8eae81d95e2002b5c4"
+          }
+        },
+        {
+          "client_id": "884056627282-ngd34s35bl7norsccrj5p8vjvj0krg6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doha.roots.app",
+            "certificate_hash": "3d685550584f674b673e65e11ed445f327b19de1"
+          }
+        },
+        {
+          "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8iKi_k85hRgA52iPNGeqO_Q-JOuqSgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884056627282-stbg7toou8dahb68n2ma63bdi8eg9bog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "doha.roots.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884056627282:android:d653e878af67bb58c3e78b",
+        "android_client_info": {
+          "package_name": "doha.roots_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884056627282-7re4pcpd958ac62bbhelpfvvghspbhpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doha.roots_app",
+            "certificate_hash": "f02445c7ffb5a54c76471e8eae81d95e2002b5c4"
+          }
+        },
+        {
+          "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8iKi_k85hRgA52iPNGeqO_Q-JOuqSgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884056627282-stbg7toou8dahb68n2ma63bdi8eg9bog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "doha.roots.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884056627282:android:7e5f88d16980ddeac3e78b",
+        "android_client_info": {
+          "package_name": "mrblab.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8iKi_k85hRgA52iPNGeqO_Q-JOuqSgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884056627282-tcljjahh9cio2spjvh9u925264jspfrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884056627282-stbg7toou8dahb68n2ma63bdi8eg9bog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "doha.roots.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
